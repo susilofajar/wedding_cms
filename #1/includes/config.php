@@ -5,17 +5,10 @@
  */
 
 // Database Configuration
-//define('DB_HOST', 'sql105.infinityfree.com');
-//define('DB_NAME', 'if0_42900476_wedding_cms');
-//define('DB_USER', 'if0_42900476');
-//define('DB_PASS', 'Zqgb3wUpqprt');
-//define('DB_CHARSET', 'utf8mb4');
-
-//
-define('DB_HOST', '127.0.0.1');
+define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'if0_42900476_wedding_cms');
+define('DB_NAME', '#1');
 define('DB_CHARSET', 'utf8mb4');
 
 // Application Configuration
